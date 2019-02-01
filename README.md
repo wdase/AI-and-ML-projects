@@ -1,5 +1,5 @@
 # AI-and-ML-projects
-Developed using Jupter Notebook
+Developed on Jupter Notebook
 to run this project:
 install anacoda python
 install the pandas, sklearn, pydotplus
