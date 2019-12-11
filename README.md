@@ -4,6 +4,9 @@ To run this project:
 Decision Tree:
             install anacoda python, pandas, sklearn and pydotplus.
             The project uses one of the supervised machine learning classification algorithms, the decision tree.
-            Good Luck
+            
 NLP:
     done on google colab
+    
+    
+    Good luck
